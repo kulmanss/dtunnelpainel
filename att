@@ -1,0 +1,336 @@
+{
+  "Version": "1.0.3",
+  "ReleaseNotes": "Nova Atualização Disponível",
+  "UrlUpdate": "https://bitbin.it/BXMdKLkg/raw/",
+  "Sms": "https://bitbin.it/Faxvy5m7/raw/",
+  "EmailFeedback": "gccsuportea@gmail.com",
+  "UrlContato": "https://wa.me/5511964667444?text=Preciso%20de%20ajuda",
+  "UrlTermos": "https://bitbin.it/WVSvhBSi/raw/",
+  "CheckUser": "true",
+  "UdpPort": "7100;7200;7300;7400;7500;7600;7700",
+  "Servers": [
+   {
+      "Name": "SERVIDOR PRINCIPAL ",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "mahalanet.ga",
+      "CheckUser": "http://mahalanet.ga:5454/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    }, 
+],
+   "Networks": [
+       
+
+{
+      "Name": "🎮VIVO GAMER🕹",
+      "FLAG":"vivo",
+      "Payload":"BASELINE-CONTROL wss://mahalanet.ga HTTP/1.1[crlf]Host: mahalanet.ga[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]RESURRECTION[crlf][crlf]",
+      "SNI":"mahalanet.ga",
+      "TlsIP":"104.16.53.111",
+      "ProxyIP":"",
+      "ProxyPort":"443",
+      "Info":"Tlsws"
+},
+
+        {
+            "Name": "🟣VIVO 1️⃣",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=mahalanet.ga][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: Resurrection[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "104.16.51.111",
+            "ProxyIP": "104.16.51.111",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "🟣VIVO 2️⃣",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=mahalanet.ga][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "104.16.53.111",
+            "ProxyIP": "104.16.53.111",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "🟣VIVO 3️⃣",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host: mahalanet.ga[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+            "SNI": "mahalanet.ga",
+            "TlsIP": "104.16.51.111",
+            "ProxyIP": "104.16.51.111",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "🟣VIVO 4️⃣",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host: mahalanet.ga[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "104.16.51.111",
+            "ProxyIP": "104.16.51.111",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+
+        {
+            "Name": "🟣VIVO 5️⃣",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host: mahalanet.ga[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "104.16.51.111",
+            "ProxyIP": "104.16.51.111",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+
+
+{
+            "Name": "🟣VIVO 6️⃣",
+            "FLAG": "vivo",
+            "Payload": "GET wss://cursofl.formuladelancamento.com.br/ HTTP/1.1[crlf]Host: mahalanet.ga[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "cursofl.formuladelancamento.com.br",
+            "TlsIP": "104.24.24.34",
+            "ProxyIP": "104.24.24.34",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+
+{
+    "Name": "VIVO FRONT🔥",
+      "FLAG": "vivo",
+      "Payload": "GET wss://77j53c91i163e6k266.speedup.mobi HTTP/1.1[crlf]Host: recarga.vivo.com.br[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "recarga.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+  },
+
+{
+            "Name": "🔰VIVO ADM🔰",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=redevpn.online][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "104.16.53.111",
+            "ProxyIP": "104.16.53.111",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+
+
+
+{
+"Name": "🟣VIVO E TIM🔵",
+"FLAG": "tim",
+"Payload": "GET / HTTP/1.1[crlf]Host: www.c6bank.app[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL /?/ HTTP/1.1[crlf]Host: mahalanet.ga[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+"SNI": "",
+"TlsIP": "",
+"ProxyIP": "104.16.51.111",
+"ProxyPort": "80",
+"Info": "Proxy"
+},
+     
+{
+    "Name": "TIM FRONT🔥",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1[crlf]Host: 77j53c91i163e6k266.speedup.mobi[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf]Keep-Alive:[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "18.161.200.111",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+  },
+
+   
+{
+    "Name": "TIM 1️⃣",
+    "FLAG": "tim",
+    "Payload": "GET / HTTP/1.1\nHost: api.sandbox.c6bank.com.br\nExpect: 100-continue\n\n[split]\n\nACL /?/ HTTP/1.1\nHost: [app_host]\nExpect: 100-continue\nUpgrade: websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\n\n",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.19.239.25",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+  },
+{
+    "Name": "TIM 2️⃣",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1[crlf]Host: helpypro.stoodi.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL /?/ HTTP/1.1[crlf]Host: [app_host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.16.53.111",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+  },
+{
+    "Name": "TIM 4️⃣",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1[crlf]Host: feedback.infinitepay.io[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL /?/ HTTP/1.1[crlf]Host: [app_host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+      "SNI": "feedback.infinitepay.io",
+      "TlsIP": "",
+      "ProxyIP": "104.16.18.94",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+  },
+
+{
+    "Name": "TIM 5️⃣",
+      "FLAG": "tim",
+      "Payload": "HEAD / HTTP/1.1\nHost:helpypro.stoodi.com.br\nExpect: 100-continue\n\n[split]\n\nACL /?/ HTTP/1.1\nHost: mahalanet.ga \nExpect: 100-continue\nUpgrade: websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\n\n",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.16.53.111",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+  },
+
+
+{
+      "Name": "TIM NOVA 6️⃣ (SALDO NA VALIDADE)",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1\nHost: api.sandbox.c6bank.com.br\nExpect: 100-continue\n\n[split]\n\nACL /?/ HTTP/1.1\nHost: [app_host]\nExpect: 100-continue\nUpgrade: websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\n\n",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.19.239.25",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+},
+
+{
+      "Name": "🟢OI🟢",
+      "FLAG": "oi",
+      "Payload": "BASELINE-CONTROL wss://preferences.hotjar.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "preferences.hotjar.com",
+      "TlsIP": "104.16.111.133",
+      "ProxyIP": "104.16.111.133",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+},
+
+
+{
+    "Name": "TIM RÁPIDA",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1[crlf]Host: helpypro.stoodi.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]PUT- // HTTP/1.1[crlf]Host: mahalanet.ga[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.16.53.111",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+  },
+
+{
+    "Name": "CLARO 1️⃣🔥",
+      "FLAG": "claro",
+      "Payload": "GET wss://77j53c91i163e6k266.speedup.mobi HTTP/1.1[crlf]Host: origin.api3.amxrest.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf]Keep-Alive:[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "images.tigocloud.net",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+  },
+
+{
+    "Name": "CLARO 2️⃣🔥",
+      "FLAG": "claro",
+      "Payload": "GET wss://77j53c91i163e6k266.speedup.mobi HTTP/1.1[crlf]Host: 52.85.34.102[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf]Keep-Alive:[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "108.139.143.183",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+  },
+
+
+{
+      "Name": "CLARO FRONT3️⃣🔰",
+      "FLAG": "claro",
+      "Payload": "GET / HTTP/1.1[crlf]Host: 77j53c91i163e6k266.speedup.mobi[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "108.139.143.183",
+      "TlsIP": "108.139.143.183",
+      "ProxyIP": "108.139.143.183",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+},
+
+
+{
+            "Name": "CLARO ON",
+            "FLAG": "claro",
+            "Payload": "GET / HTTP/1.1[crlf]Host: 5a21yz7753g7l56671.speedup.mobi[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf]Keep-Alive:[crlf][crlf]",
+            "SNI": "1.1.1.1",
+            "TlsIP": "d216901qxcl0k5.cloudfront.net",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "CLARO RAIO",
+            "FLAG": "claro",
+            "Payload": "GET / HTTP/1.1[crlf]Host: 1160116811mao79jy7.speedup.mobi[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf]Keep-Alive:[crlf][crlf]",
+            "SNI": "108.139.143.183",
+            "TlsIP": "108.139.143.183",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "CLARO PREZÃO",
+            "FLAG": "claro",
+            "Payload": "GET wss://dns.web.whatsapp.com HTTP/1.1[crlf]Host: origin.api3.amxrest.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf]Keep-Alive:[crlf][crlf]",
+            "SNI": "dns.web.whatsapp.com",
+            "TlsIP": "200.98.168.157",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+
+{
+      "Name": "CLARO [DIRECT]",
+      "FLAG": "claro",
+      "Payload": "POST http://www.waze.com/ [protocol][lf]Host: www.waze.com[lf]Connection: Keep-Alive[lf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "[app_host]",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+},
+{
+      "Name": "CLARO 4G E H+",
+      "FLAG": "claro",
+      "Payload": "GET http://www.claro.com.br HTTP/1.0[crlf]Host: http://www.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "134.65.238.134",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+},
+
+
+{
+      "Name": "🟢OI🟢",
+      "FLAG": "oi",
+      "Payload": "BASELINE-CONTROL wss://preferences.hotjar.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "preferences.hotjar.com",
+      "TlsIP": "104.16.111.133",
+      "ProxyIP": "104.16.111.133",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+},
+
+        {
+            "Name": "🟡Oi falida",
+            "FLAG": "oi",
+            "Payload": "GET wss://www.hbogo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "www.hbogo.com.br",
+            "TlsIP": "104.16.51.91",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        }
+    ]
+}
